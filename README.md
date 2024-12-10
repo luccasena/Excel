@@ -8,6 +8,8 @@
 
 - Logo abaixo, você encontrará alguns dos meus documentos em formato .xlsx:
 
-<p align="center">
-    <a href="documentos/exercicio-proposto-formatacao.xlsx">1. Exercício proposto sobre formatação</a>
-</p>
+<div align="center">
+    <a href="documentos/exercicio-proposto-formatacao.xlsx">1. Exercício proposto sobre formatação</a><br><br>
+    <img src="images/exercicio1.png" width=450>
+    <p>Exercício que deu inicio ao meu estudo no excel e nele apliquei conceitos básicos de formatação de textos e na tabela como um todo.</p>
+</div>
