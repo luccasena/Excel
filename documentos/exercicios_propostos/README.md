@@ -3,12 +3,12 @@
 📌 Nesta seção, vou estar armazenando alguns exercícios propostos respectivos ao assunto estudado. Para isto, estou retirando os exercícios de um curso na udemy ministrada pelo <b>professor Nelio Alves.</b> Disponibilizo o link do curso abaixo:
 
 <p align='center'>
-<a ref="https://www.udemy.com/share/101rzY3@-n8JffPb5GriVX6XjKeABPfs0flX7H4EO3kI1MRYltjUhDaK6VWYKBsoj55NZsP2_w==/" >Curso Excel</a>
+<a ref="https://www.udemy.com/share/101rzY3@-n8JffPb5GriVX6XjKeABPfs0flX7H4EO3kI1MRYltjUhDaK6VWYKBsoj55NZsP2_w==/">Curso Excel</a>
 </p> <br>
 
 Abaixo, se encontra alguma das planilhas:
 
-<a href="exercicio-proposto-formatacao.xlsx">1. Exercício Propostos sobre formatação</a>
+<a href="exercicio-proposto-formatacao.xlsx">1. Exercício Propostos sobre formatação</a><br>
 <img src="images/exercicio1.png" width=450>
 <p>Exercício que deu inicio ao meu estudo no excel e nele apliquei conceitos básicos de formatação de textos e na tabela como um todo.</p>
 

@@ -8,6 +8,6 @@
 
 - Logo abaixo, você encontrará alguns dos meus documentos:
 
-<a href="documentos/exercicios_propostos/README.md"> Exercícios Propostos</a>
+<a href="documentos/exercicios_propostos/README.md"> Exercícios Propostos</a> <br>
 <a href="documentos/projetos/README.md"> Projetos</a>
 
