@@ -6,10 +6,8 @@
     <img src="images/excel.png" width=75>
 </p>
 
-- Logo abaixo, você encontrará alguns dos meus documentos em formato .xlsx:
+- Logo abaixo, você encontrará alguns dos meus documentos:
 
-<div align="center">
-    <a href="documentos/exercicio-proposto-formatacao.xlsx">1. Exercício proposto sobre formatação</a><br><br>
-    <img src="images/exercicio1.png" width=450>
-    <p>Exercício que deu inicio ao meu estudo no excel e nele apliquei conceitos básicos de formatação de textos e na tabela como um todo.</p>
-</div>
+<a href="documentos/exercicios_propostos/README.md"> Exercícios Propostos</a>
+<a href="documentos/projetos/README.md"> Projetos</a>
+
